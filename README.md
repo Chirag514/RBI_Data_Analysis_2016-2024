@@ -3,7 +3,7 @@
 ## Overview
 Power BI dashboard analyzing RBI digital payment channels and banking infrastructure trends from 2016 to 2024. Covers transaction volumes, device deployments, bank-wise distributions, and growth rates across POS, UPI, Bharat QR, ATMs, and cards.
 
-## Key Metrics (2024)
+## Key Metrics (2016-2024)
 | Indicator | Value | 
 |-----------|-------|
 | Total Banks | 86 |
@@ -16,13 +16,13 @@ Power BI dashboard analyzing RBI digital payment channels and banking infrastruc
 | Micro ATMs | 12M |
 
 ## Bank Type Distribution
-| Bank Type | % Share | Number of Banks |
-|-----------|---------|-----------------|
-| Private Sector | 35.23% | 30 |
-| Public Sector | 27.39% | 24 |
-| Foreign Banks | 15.95% | 14 |
-| Small Finance Banks | 13.49% | 12 |
-| Payment Banks | 7.94% | 6 |
+| Bank Type | Number of Banks |
+|-----------|-----------------|
+| Private Sector | 25 |
+| Public Sector | 25 |
+| Foreign Banks | 17 |
+| Small Finance Banks | 12 |
+| Payment Banks | 7 |
 
 ## Transaction Trends (2016-2024)
 ### Volume Growth
