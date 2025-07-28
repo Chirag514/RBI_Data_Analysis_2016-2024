@@ -22,7 +22,7 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 
 ---
 
-## 🏦 Bank Type Distribution
+## Bank Type Distribution
 
 | Bank Type             | Count |
 |-----------------------|-------|
