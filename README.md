@@ -34,6 +34,26 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 
 ---
 
+## Year-wise Growth Trends (2016–2024)
+
+### POS, UPI, Bharat QR Growth %
+
+| Year | POS Growth % | UPI Growth % | Bharat QR Growth % |
+|------|---------------|--------------|---------------------|
+| 2017 | 0.2%          | 0.2%         | -0.5%               |
+| 2020 | 0.4%          | 0.6%         | 0.1%                |
+| 2024 | 0.9%          | 1.5%         | 0.2%                |
+
+### Credit vs Debit Growth %
+
+| Year | Credit Growth % | Debit Growth % |
+|------|------------------|----------------|
+| 2017 | 0.37%            | -0.14%         |
+| 2020 | 0.24%            | -0.31%         |
+| 2024 | 0.06%            | -0.47%         |
+
+---
+
 ## Top Banks by Digital Infrastructure
 
 | Channel          | Top Banks                     | Volume            |
@@ -98,6 +118,15 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 | Others     | HDFC, ICICI, Axis  | 6.5M, 0.6M, 0.6M         |
 ---
 
+## Summary Insights
+
+- **UPI** adoption has been the most significant growth driver in digital payments.
+- **Private Sector Banks** dominate credit-based services and POS infrastructure.
+- **Public Sector Banks** lead in debit card usage and ATM presence.
+- Year-wise growth trends indicate a shift from cash-based transactions (ATM) to digital platforms (UPI, POS).
+
+---
+
 ## Data Notes
 
 - **Timeframe**: 2016–2024
@@ -106,7 +135,6 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
   - B = Billion
   - K = Thousand
 - **Source**: Reserve Bank of India (RBI)
-- **Dashboard Last Updated**: July 2025
 
 ---
 
