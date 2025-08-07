@@ -34,26 +34,6 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 
 ---
 
-## Year-wise Growth Trends (2016–2024)
-
-### POS, UPI, Bharat QR Growth %
-
-| Year | POS Growth % | UPI Growth % | Bharat QR Growth % |
-|------|---------------|--------------|---------------------|
-| 2017 | 0.2%          | 0.2%         | -0.5%               |
-| 2020 | 0.4%          | 0.6%         | 0.1%                |
-| 2024 | 0.9%          | 1.5%         | 0.2%                |
-
-### Credit vs Debit Growth %
-
-| Year | Credit Growth % | Debit Growth % |
-|------|------------------|----------------|
-| 2017 | 0.37%            | -0.14%         |
-| 2020 | 0.24%            | -0.31%         |
-| 2024 | 0.06%            | -0.47%         |
-
----
-
 ## Top Banks by Digital Infrastructure
 
 | Channel          | Top Banks                     | Volume            |
@@ -120,10 +100,11 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 
 ## Summary Insights
 
-- **UPI** adoption has been the most significant growth driver in digital payments.
-- **Private Sector Banks** dominate credit-based services and POS infrastructure.
-- **Public Sector Banks** lead in debit card usage and ATM presence.
-- Year-wise growth trends indicate a shift from cash-based transactions (ATM) to digital platforms (UPI, POS).
+- **UPI adoption** has shown most significant growth, making it the leading digital payment channel across both private and public banks.
+- **Private Sector Banks** continue to lead in **credit card issuance**, **POS terminal deployment**, and **UPI QR code** adoption.
+- **Public Sector Banks** dominate **debit card issuance**, **ATM deployments**, and **overall debit transaction volumes**.
+- **Payment Banks** are the key players in **Micro ATM expansion**.
+- A clear **transition from cash-based to digital modes** is visible, with a decline in ATM transactions and rise in **POS, UPI, and online card usage**.
 
 ---
 
@@ -131,8 +112,9 @@ Power BI dashboard presenting an analysis of digital transaction trends and bank
 
 - **Timeframe**: 2016–2024
 - **Units**:
-  - M = Million
+  - T = Trillion
   - B = Billion
+  - M = Million
   - K = Thousand
 - **Source**: Reserve Bank of India (RBI)
 
